@@ -1,0 +1,4 @@
+User-Agent: *
+Allow: 
+
+Sitemap: http://www.monoirsuite.com/sitemap.xml
